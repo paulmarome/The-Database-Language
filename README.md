@@ -1,2 +1,2 @@
 # The-Database-Language-Unfold 
-Brief introduction to the C++ language with weekly commits
+Brief introduction to the SQL language with weekly commits
